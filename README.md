@@ -2,11 +2,11 @@
 
 Repositorio para armazenas info e anotações sobre [Versionamente de codigo com Git e Github](https://web.dio.me/track/luizalabs-back-end-com-python)
 
-## 📚 Documentação
+## 📚 Documentação>
 - [Documentação Git](https://git-scm.com/docs)
 - [Documentação Github](https://docs.github.com/pt)
 
-## 👩‍💻 Comandos Git
+## 👩‍💻 Comandos Git:
 - **$ git remote add origin <url> :** Conecta folder local com repositorio remoto Github.
   
 - **$ git clone <url> <nome-do-repositorio ; "opicional"> :** clona repositorio para sua maquina local, se o nome-do-repo não for informado clona com nome padrao do repo.
@@ -43,7 +43,7 @@ em um só comando (atalho).
 - **$ git reset <arquivo> :** Remove um arquivo da staging area, mantendo as mudanças no seu diretório de trabalho.
 
 
-## 💻 Outros Comandos
+## 💻 Outros Comandos>
 - **$ dir :** Lista o conteúdo do diretório atual.
 - **$ cd <diretório> :** Muda o diretório de trabalho atual.
 - **$ cd .. :** Sobe para o diretório pai (volta um nível).
