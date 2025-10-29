@@ -45,10 +45,17 @@ em um só comando (atalho).
 
 ## 💻 Outros Comandos>
 - **$ dir :** Lista o conteúdo do diretório atual.
+  
 - **$ cd <diretório> :** Muda o diretório de trabalho atual.
+  
 - **$ cd .. :** Sobe para o diretório pai (volta um nível).
+  
 - **$ cd :** Mostra o caminho completo do diretório atual (Print Working Directory).
+  
 - **$ mkdir <nome> :** Cria um novo diretório (pasta).
+  
 - **$ touch <arquivo> :** Cria um novo arquivo vazio.
+  
 - **$ code . :** Abre o Visual Studio Code no diretório atual (se instalado e configurado).
+  
 - **$ clear :** Limpa a tela do terminal.
